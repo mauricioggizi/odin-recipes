@@ -1,7 +1,52 @@
+.Title{
+    text-align: center;
+    margin:auto;
+    padding-bottom: 20px;
+}
+
+.Title.onions{
+    text-align: center;
+}
+
+.food_image{
+    margin-left: 750px;
+}
+
+.description{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.ingredients_header{
+    text-align: center;
+    padding-left: 850px;
+    padding-right: 800px;
+}
+
+.ingredients{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.directions_header{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.directions{
+    text-align: center;
+    margin-top: 20px;
+}
+
 .recipe{
     color: aqua;
+    
 }
 
 #recipes-title{
-    color:yellow
+    color:yellow;
+    margin-right: 40px;
+    
+    text-align: center;
 }
